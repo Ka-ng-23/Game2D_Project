@@ -1,0 +1,335 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HCMUS\\N\u0102M 3 - HK2\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh n\u00E2ng cao\\Project Unity\\Fightting_game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84640020-98C5-69A4-D094-2C23B82334C0}|Assembly-CSharp.csproj|D:\\HCMUS\\N\u0102M 3 - HK2\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh n\u00E2ng cao\\Project Unity\\Fightting_game\\assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84640020-98C5-69A4-D094-2C23B82334C0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84640020-98C5-69A4-D094-2C23B82334C0}|Assembly-CSharp.csproj|D:\\HCMUS\\N\u0102M 3 - HK2\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh n\u00E2ng cao\\Project Unity\\Fightting_game\\assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84640020-98C5-69A4-D094-2C23B82334C0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84640020-98C5-69A4-D094-2C23B82334C0}|Assembly-CSharp.csproj|D:\\HCMUS\\N\u0102M 3 - HK2\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh n\u00E2ng cao\\Project Unity\\Fightting_game\\assets\\scripts\\damageable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84640020-98C5-69A4-D094-2C23B82334C0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\damageable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84640020-98C5-69A4-D094-2C23B82334C0}|Assembly-CSharp.csproj|D:\\HCMUS\\N\u0102M 3 - HK2\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh n\u00E2ng cao\\Project Unity\\Fightting_game\\assets\\scripts\\musicplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84640020-98C5-69A4-D094-2C23B82334C0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\musicplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84640020-98C5-69A4-D094-2C23B82334C0}|Assembly-CSharp.csproj|D:\\HCMUS\\N\u0102M 3 - HK2\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh n\u00E2ng cao\\Project Unity\\Fightting_game\\assets\\scripts\\knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84640020-98C5-69A4-D094-2C23B82334C0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84640020-98C5-69A4-D094-2C23B82334C0}|Assembly-CSharp.csproj|D:\\HCMUS\\N\u0102M 3 - HK2\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh n\u00E2ng cao\\Project Unity\\Fightting_game\\assets\\scripts\\helthtext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84640020-98C5-69A4-D094-2C23B82334C0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\helthtext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84640020-98C5-69A4-D094-2C23B82334C0}|Assembly-CSharp.csproj|D:\\HCMUS\\N\u0102M 3 - HK2\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh n\u00E2ng cao\\Project Unity\\Fightting_game\\assets\\scripts\\healthpickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84640020-98C5-69A4-D094-2C23B82334C0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\healthpickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84640020-98C5-69A4-D094-2C23B82334C0}|Assembly-CSharp.csproj|d:\\hcmus\\n\u0103m 3 - hk2\\k\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh n\u00E2ng cao\\project unity\\fightting_game\\assets\\scripts\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84640020-98C5-69A4-D094-2C23B82334C0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84640020-98C5-69A4-D094-2C23B82334C0}|Assembly-CSharp.csproj|D:\\HCMUS\\N\u0102M 3 - HK2\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh n\u00E2ng cao\\Project Unity\\Fightting_game\\assets\\scripts\\attack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84640020-98C5-69A4-D094-2C23B82334C0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\attack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84640020-98C5-69A4-D094-2C23B82334C0}|Assembly-CSharp.csproj|D:\\HCMUS\\N\u0102M 3 - HK2\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh n\u00E2ng cao\\Project Unity\\Fightting_game\\assets\\scripts\\animationstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84640020-98C5-69A4-D094-2C23B82334C0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\animationstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84640020-98C5-69A4-D094-2C23B82334C0}|Assembly-CSharp.csproj|D:\\HCMUS\\N\u0102M 3 - HK2\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh n\u00E2ng cao\\Project Unity\\Fightting_game\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84640020-98C5-69A4-D094-2C23B82334C0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84640020-98C5-69A4-D094-2C23B82334C0}|Assembly-CSharp.csproj|D:\\HCMUS\\N\u0102M 3 - HK2\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh n\u00E2ng cao\\Project Unity\\Fightting_game\\assets\\scripts\\statemachine\\playoneshotbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84640020-98C5-69A4-D094-2C23B82334C0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\statemachine\\playoneshotbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84640020-98C5-69A4-D094-2C23B82334C0}|Assembly-CSharp.csproj|D:\\HCMUS\\N\u0102M 3 - HK2\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh n\u00E2ng cao\\Project Unity\\Fightting_game\\assets\\scripts\\parallaxeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84640020-98C5-69A4-D094-2C23B82334C0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\parallaxeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\HCMUS\\N\u0102M 3 - HK2\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh n\u00E2ng cao\\Project Unity\\Fightting_game\\assets\\flyingdemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\flyingdemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84640020-98C5-69A4-D094-2C23B82334C0}|Assembly-CSharp.csproj|D:\\HCMUS\\N\u0102M 3 - HK2\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh n\u00E2ng cao\\Project Unity\\Fightting_game\\assets\\scripts\\detectionzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84640020-98C5-69A4-D094-2C23B82334C0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\detectionzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84640020-98C5-69A4-D094-2C23B82334C0}|Assembly-CSharp.csproj|D:\\HCMUS\\N\u0102M 3 - HK2\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh n\u00E2ng cao\\Project Unity\\Fightting_game\\assets\\scripts\\statemachine\\setboolbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84640020-98C5-69A4-D094-2C23B82334C0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\statemachine\\setboolbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84640020-98C5-69A4-D094-2C23B82334C0}|Assembly-CSharp.csproj|D:\\HCMUS\\N\u0102M 3 - HK2\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh n\u00E2ng cao\\Project Unity\\Fightting_game\\assets\\scripts\\statemachine\\faderemovebehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84640020-98C5-69A4-D094-2C23B82334C0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\statemachine\\faderemovebehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84640020-98C5-69A4-D094-2C23B82334C0}|Assembly-CSharp.csproj|D:\\HCMUS\\N\u0102M 3 - HK2\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh n\u00E2ng cao\\Project Unity\\Fightting_game\\assets\\scripts\\statemachine\\setfloatbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84640020-98C5-69A4-D094-2C23B82334C0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\statemachine\\setfloatbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84640020-98C5-69A4-D094-2C23B82334C0}|Assembly-CSharp.csproj|D:\\HCMUS\\N\u0102M 3 - HK2\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh n\u00E2ng cao\\Project Unity\\Fightting_game\\assets\\scripts\\touchingdirections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84640020-98C5-69A4-D094-2C23B82334C0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\touchingdirections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HealthBar.cs",
+              "DocumentMoniker": "D:\\HCMUS\\N\u0102M 3 - HK2\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh n\u00E2ng cao\\Project Unity\\Fightting_game\\Assets\\Scripts\\HealthBar.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HealthBar.cs",
+              "ToolTip": "D:\\HCMUS\\N\u0102M 3 - HK2\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh n\u00E2ng cao\\Project Unity\\Fightting_game\\Assets\\Scripts\\HealthBar.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HealthBar.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T09:11:59.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HelthText.cs",
+              "DocumentMoniker": "D:\\HCMUS\\N\u0102M 3 - HK2\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh n\u00E2ng cao\\Project Unity\\Fightting_game\\Assets\\Scripts\\HelthText.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HelthText.cs",
+              "ToolTip": "D:\\HCMUS\\N\u0102M 3 - HK2\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh n\u00E2ng cao\\Project Unity\\Fightting_game\\Assets\\Scripts\\HelthText.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HelthText.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T03:05:01.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Attack.cs",
+              "DocumentMoniker": "D:\\HCMUS\\N\u0102M 3 - HK2\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh n\u00E2ng cao\\Project Unity\\Fightting_game\\Assets\\Scripts\\Attack.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Attack.cs",
+              "ToolTip": "D:\\HCMUS\\N\u0102M 3 - HK2\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh n\u00E2ng cao\\Project Unity\\Fightting_game\\Assets\\Scripts\\Attack.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Attack.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T03:00:09.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HealthPickUp.cs",
+              "DocumentMoniker": "D:\\HCMUS\\N\u0102M 3 - HK2\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh n\u00E2ng cao\\Project Unity\\Fightting_game\\Assets\\Scripts\\HealthPickUp.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HealthPickUp.cs",
+              "ToolTip": "D:\\HCMUS\\N\u0102M 3 - HK2\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh n\u00E2ng cao\\Project Unity\\Fightting_game\\Assets\\Scripts\\HealthPickUp.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HealthPickUp.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T06:49:31.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Knight.cs",
+              "DocumentMoniker": "D:\\HCMUS\\N\u0102M 3 - HK2\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh n\u00E2ng cao\\Project Unity\\Fightting_game\\Assets\\Scripts\\Knight.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Knight.cs",
+              "ToolTip": "D:\\HCMUS\\N\u0102M 3 - HK2\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh n\u00E2ng cao\\Project Unity\\Fightting_game\\Assets\\Scripts\\Knight.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Knight.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwDUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T07:44:39.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "D:\\HCMUS\\N\u0102M 3 - HK2\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh n\u00E2ng cao\\Project Unity\\Fightting_game\\Assets\\Scripts\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenu.cs",
+              "ToolTip": "D:\\HCMUS\\N\u0102M 3 - HK2\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh n\u00E2ng cao\\Project Unity\\Fightting_game\\Assets\\Scripts\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T09:03:11.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MusicPlayer.cs",
+              "DocumentMoniker": "D:\\HCMUS\\N\u0102M 3 - HK2\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh n\u00E2ng cao\\Project Unity\\Fightting_game\\Assets\\Scripts\\MusicPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MusicPlayer.cs",
+              "ToolTip": "D:\\HCMUS\\N\u0102M 3 - HK2\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh n\u00E2ng cao\\Project Unity\\Fightting_game\\Assets\\Scripts\\MusicPlayer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MusicPlayer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T06:25:01.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "D:\\HCMUS\\N\u0102M 3 - HK2\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh n\u00E2ng cao\\Project Unity\\Fightting_game\\Assets\\Scripts\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIManager.cs",
+              "ToolTip": "D:\\HCMUS\\N\u0102M 3 - HK2\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh n\u00E2ng cao\\Project Unity\\Fightting_game\\Assets\\Scripts\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIManager.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAswFIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T05:35:38.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Damageable.cs",
+              "DocumentMoniker": "D:\\HCMUS\\N\u0102M 3 - HK2\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh n\u00E2ng cao\\Project Unity\\Fightting_game\\Assets\\Scripts\\Damageable.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Damageable.cs",
+              "ToolTip": "D:\\HCMUS\\N\u0102M 3 - HK2\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh n\u00E2ng cao\\Project Unity\\Fightting_game\\Assets\\Scripts\\Damageable.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Damageable.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAswHEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T03:17:14.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AnimationStrings.cs",
+              "DocumentMoniker": "D:\\HCMUS\\N\u0102M 3 - HK2\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh n\u00E2ng cao\\Project Unity\\Fightting_game\\Assets\\Scripts\\AnimationStrings.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AnimationStrings.cs",
+              "ToolTip": "D:\\HCMUS\\N\u0102M 3 - HK2\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh n\u00E2ng cao\\Project Unity\\Fightting_game\\Assets\\Scripts\\AnimationStrings.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AnimationStrings.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAD4vxkAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T17:41:48.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\HCMUS\\N\u0102M 3 - HK2\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh n\u00E2ng cao\\Project Unity\\Fightting_game\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "D:\\HCMUS\\N\u0102M 3 - HK2\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh n\u00E2ng cao\\Project Unity\\Fightting_game\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AQIAAJsAAAAAAAAAAAAUwBQAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T12:05:30.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FlyingDemon.cs",
+              "DocumentMoniker": "D:\\HCMUS\\N\u0102M 3 - HK2\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh n\u00E2ng cao\\Project Unity\\Fightting_game\\Assets\\FlyingDemon.cs",
+              "RelativeDocumentMoniker": "Assets\\FlyingDemon.cs",
+              "ToolTip": "D:\\HCMUS\\N\u0102M 3 - HK2\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh n\u00E2ng cao\\Project Unity\\Fightting_game\\Assets\\FlyingDemon.cs",
+              "RelativeToolTip": "Assets\\FlyingDemon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T05:59:39.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ParallaxEffect.cs",
+              "DocumentMoniker": "D:\\HCMUS\\N\u0102M 3 - HK2\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh n\u00E2ng cao\\Project Unity\\Fightting_game\\Assets\\Scripts\\ParallaxEffect.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ParallaxEffect.cs",
+              "ToolTip": "D:\\HCMUS\\N\u0102M 3 - HK2\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh n\u00E2ng cao\\Project Unity\\Fightting_game\\Assets\\Scripts\\ParallaxEffect.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ParallaxEffect.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T06:24:57.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PlayOneShotBehaviour.cs",
+              "DocumentMoniker": "D:\\HCMUS\\N\u0102M 3 - HK2\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh n\u00E2ng cao\\Project Unity\\Fightting_game\\Assets\\Scripts\\StateMachine\\PlayOneShotBehaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StateMachine\\PlayOneShotBehaviour.cs",
+              "ToolTip": "D:\\HCMUS\\N\u0102M 3 - HK2\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh n\u00E2ng cao\\Project Unity\\Fightting_game\\Assets\\Scripts\\StateMachine\\PlayOneShotBehaviour.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StateMachine\\PlayOneShotBehaviour.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwCYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T06:25:23.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FadeRemoveBehaviour.cs",
+              "DocumentMoniker": "D:\\HCMUS\\N\u0102M 3 - HK2\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh n\u00E2ng cao\\Project Unity\\Fightting_game\\Assets\\Scripts\\StateMachine\\FadeRemoveBehaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StateMachine\\FadeRemoveBehaviour.cs",
+              "ToolTip": "D:\\HCMUS\\N\u0102M 3 - HK2\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh n\u00E2ng cao\\Project Unity\\Fightting_game\\Assets\\Scripts\\StateMachine\\FadeRemoveBehaviour.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StateMachine\\FadeRemoveBehaviour.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAzwCgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T03:17:30.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SetFloatBehaviour.cs",
+              "DocumentMoniker": "D:\\HCMUS\\N\u0102M 3 - HK2\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh n\u00E2ng cao\\Project Unity\\Fightting_game\\Assets\\Scripts\\StateMachine\\SetFloatBehaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StateMachine\\SetFloatBehaviour.cs",
+              "ToolTip": "D:\\HCMUS\\N\u0102M 3 - HK2\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh n\u00E2ng cao\\Project Unity\\Fightting_game\\Assets\\Scripts\\StateMachine\\SetFloatBehaviour.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StateMachine\\SetFloatBehaviour.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T14:04:28.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DetectionZone.cs",
+              "DocumentMoniker": "D:\\HCMUS\\N\u0102M 3 - HK2\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh n\u00E2ng cao\\Project Unity\\Fightting_game\\Assets\\Scripts\\DetectionZone.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DetectionZone.cs",
+              "ToolTip": "D:\\HCMUS\\N\u0102M 3 - HK2\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh n\u00E2ng cao\\Project Unity\\Fightting_game\\Assets\\Scripts\\DetectionZone.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DetectionZone.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAqwB0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T10:18:39.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SetBoolBehaviour.cs",
+              "DocumentMoniker": "D:\\HCMUS\\N\u0102M 3 - HK2\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh n\u00E2ng cao\\Project Unity\\Fightting_game\\Assets\\Scripts\\StateMachine\\SetBoolBehaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StateMachine\\SetBoolBehaviour.cs",
+              "ToolTip": "D:\\HCMUS\\N\u0102M 3 - HK2\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh n\u00E2ng cao\\Project Unity\\Fightting_game\\Assets\\Scripts\\StateMachine\\SetBoolBehaviour.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StateMachine\\SetBoolBehaviour.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwEIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T08:07:21.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TouchingDirections.cs",
+              "DocumentMoniker": "D:\\HCMUS\\N\u0102M 3 - HK2\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh n\u00E2ng cao\\Project Unity\\Fightting_game\\Assets\\Scripts\\TouchingDirections.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TouchingDirections.cs",
+              "ToolTip": "D:\\HCMUS\\N\u0102M 3 - HK2\\K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh n\u00E2ng cao\\Project Unity\\Fightting_game\\Assets\\Scripts\\TouchingDirections.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TouchingDirections.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T13:35:15.317Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
