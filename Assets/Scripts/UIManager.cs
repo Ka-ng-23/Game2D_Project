@@ -70,6 +70,7 @@ public class UIManager : MonoBehaviour
     public void gameOver()
     {
         gameOverUI.SetActive(true);
+        Time.timeScale = 0;
     }
 
     public void restartGame()

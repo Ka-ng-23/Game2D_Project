@@ -35,6 +35,7 @@ public class Damageable : MonoBehaviour
             if (_health <= 0)
             {
                 IsAlive = false;
+                //manager.gameOver();
             }
         }
 
@@ -111,8 +112,7 @@ public class Damageable : MonoBehaviour
             }
             timeSinceHit += Time.deltaTime;
         }
-
-        if (Health <=0 && !IsAlive)
+        if (Health <= 0 && !IsAlive)
         {
             manager.gameOver();
         }
@@ -139,20 +139,24 @@ public class Damageable : MonoBehaviour
     }
 
     //Returns whether the character was healed or not
-    public bool Heal(int healthRestore)
+    /* Ph??ng th?c 'Heal' ki?m tra xem ??i t??ng có th? h?i ph?c máu hay không d?a trên tình tr?ng s?ng và l??ng máu hi?n t?i.
+    Tính toán l??ng máu có th? h?i ph?c và th?c t? s? h?i ph?c mà không v??t quá gi?i h?n.
+    C?p nh?t l??ng máu hi?n t?i và kích ho?t s? ki?n thông báo v? vi?c h?i ph?c máu.
+    Tr? v? k?t qu? cho bi?t vi?c h?i ph?c có thành công hay không.*/
+public bool Heal(int healthRestore)
+{
+    if (IsAlive && Health < MaxHealth)
     {
-        if (IsAlive && Health < MaxHealth)
-        {
-            int maxHeal = Mathf.Max(MaxHealth - Health, 0);
-            int actualHeal = Mathf.Min(maxHeal, healthRestore);
-            Health += actualHeal;
+        int maxHeal = Mathf.Max(MaxHealth - Health, 0);
+        int actualHeal = Mathf.Min(maxHeal, healthRestore);
+        Health += actualHeal;
 
-            CharacterEvents.characterHealed(gameObject, actualHeal);
+        CharacterEvents.characterHealed(gameObject, actualHeal);
 
-            return true;
-        }
-
-        return false ;
+        return true;
     }
+
+    return false ;
+}
 
 }
